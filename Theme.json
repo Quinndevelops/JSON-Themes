@@ -1,17 +1,17 @@
 {
-  "name": "JustBlack",
-  "description": "All black.",
+  "name": "Green Midnight",
+  "description": "LimeGreen and Midnighr colors",
   "color": "#001E4E",
   "authors": [
     {
-      "name": "darealyeeto",
+      "name": "Quinndevelops",
       "id": "980160393093730395"
     }
   ],
   "plus": {
        "version": 0,
        "mentionLineColor": "#32CD32",
-       "iconpack": "rosiecord-plumpy"
+       "iconpack": "roise"
   },
   "semanticColors": {
     "HEADER_PRIMARY": [
